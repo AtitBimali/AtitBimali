@@ -29,11 +29,81 @@ As a programmer, I enjoy working with obsolete code and making things that make 
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 136 Contributions in the Year 2022
+ > 
+> 📦 152.3 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 29 Public Repositories 
+ > 
+> 🔑 1 Private Repository 
+ > 
+**I'm an Early 🐤** 
 
 ```text
-No activity tracked
+🌞 Morning    21 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.79% 
+🌆 Daytime    70 commits     ████████████░░░░░░░░░░░░░   49.3% 
+🌃 Evening    51 commits     █████████░░░░░░░░░░░░░░░░   35.92% 
+🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday       12 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.45% 
+Tuesday      27 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.01% 
+Wednesday    33 commits     █████░░░░░░░░░░░░░░░░░░░░   23.24% 
+Thursday     15 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.56% 
+Friday       32 commits     █████░░░░░░░░░░░░░░░░░░░░   22.54% 
+Saturday     13 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.15% 
+Sunday       10 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.04%
+
 ```
 
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Kathmandu
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   15 repos            ███████████████░░░░░░░░░░   62.5% 
+HTML                     7 repos             ███████░░░░░░░░░░░░░░░░░░   29.17% 
+C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.17% 
+JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.17%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/AtitBimali/AtitBimali/main/charts/bar_graph.png) 
+
+
+ Last Updated on 15/07/2022 01:38:01 UTC
 <!--END_SECTION:waka-->
 
 
