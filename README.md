@@ -1,118 +1,46 @@
-### <samp>&gt; Hi there, I'm <a href="https://atitbimali.com.np/" target="_blank">Atit Bimali</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
+<h1 align="center"> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
+<h3 align="center">A passionate backend developer from Nepal 🇳🇵</h3>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/gapur-kassym)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://atitbimali.com.np/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/BimaliAtit)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/atitbimali/)
-[![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://medium.com/@atitbimali10)
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-0088cc?style=flat-square&logo=Facebook&logoColor=white)](https://www.facebook.com/atit.bimali)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=atitbimali&label=Profile%20views&color=0e75b6&style=flat" alt="atitbimali" /> </p>
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=AtitBimali.AtitBimali)
-
-I am a Computer Science Student and a full-stack web developer. I love to learn and explore new Tech Stacks.
-
-As a programmer, I enjoy working with obsolete code and making things that make life easier.
-
-<img align="right" alt="GIF" src="https://github.com/AtitBimali/AtitBimali/blob/main/assets/assets/coding.gif?raw=true" width="408" height="318" />
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atitbimali&theme=tokyonight" alt="atitbimali" /></a> </p>
   
+<h2> About Me <img align="right" src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 300px height='300px'></h2>
+  
+<p align="left"> <a href="https://twitter.com/atit_tweets" target="blank"><img src="https://img.shields.io/twitter/follow/atit_tweets?logo=twitter&style=for-the-badge" alt="atit_tweets" /></a> </p>
 
-**Talking about Personal Stuffs:**
+- 🔭 I’m currently working on **Backend Devlopment**
+- 🌱 I’m currently learning **DevOps**
+- 🤝 I’m looking for help with **[DRF Django Nepal](https://github.com/AtitBimali/DjangoNepalDRF)**
+- 👨‍💻 All of my projects are available at [https://atitbimali.com.np/](https://atitbimali.com.np/)
+- 📫 How to reach me **atitbimali10@gmail.com**
 
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently working on something cool;
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently learning Data Structures and Algorithms on [leetcode](https://leetcode.com/atitbimali10/);
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about anything, I am happy to help;
-
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: atitbimali10@gmail.com;
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/doc.gif?raw=true" width="21" />&nbsp;&nbsp; [Resume](https://drive.google.com/file/d/1DV-bhL0wNNMPG9pGWoEooxl3qFMxfHKa/view?usp=sharing).
-
-</br>
-
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 136 Contributions in the Year 2022
- > 
-> 📦 152.3 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 29 Public Repositories 
- > 
-> 🔑 1 Private Repository 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    21 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.79% 
-🌆 Daytime    70 commits     ████████████░░░░░░░░░░░░░   49.3% 
-🌃 Evening    51 commits     █████████░░░░░░░░░░░░░░░░   35.92% 
-🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday       12 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.45% 
-Tuesday      27 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.01% 
-Wednesday    33 commits     █████░░░░░░░░░░░░░░░░░░░░   23.24% 
-Thursday     15 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.56% 
-Friday       922222232 commits     █████░░░░░░░░░░░░░░░░░░░░   22.54% 
-Saturday     13 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.15% 
-Sunday       10 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.04%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kathmandu
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   15 repos            ███████████████░░░░░░░░░░   62.5% 
-HTML                     7 repos             ███████░░░░░░░░░░░░░░░░░░   29.17% 
-C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.17% 
-JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.17%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/AtitBimali/AtitBimali/main/charts/bar_graph.png) 
-
-
- Last Updated on 15/07/2022 01:38:01 UTC
-<!--END_SECTION:waka-->
-
-
-📈 **My GitHub Stats:**
-
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AtitBimali&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtitBimali&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+<h3 align="left">Connect with me:</h3> 
+<p align="left">
+<a href="https://twitter.com/atit_tweets" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="atit_tweets" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/atit-b-b237b4179" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atit-b-b237b4179" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/atit-bimali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="atit-bimali" height="30" width="40" /></a>
+<a href="https://fb.com/atit.bimali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="atit.bimali" height="30" width="40" /></a>
+<a href="https://instagram.com/atitbimali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="atitbimali" height="30" width="40" /></a>
+<a href="https://medium.com/@atitbimali10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@atitbimali10" height="30" width="40" /></a>
 </p>
 
+<br>
+  
+<h2 align="left">Languages and Tools: <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=AtitBimali&show_icons=true&theme=vue-dark&locale=en&layout=compact" alt="atitbimali" /></p>
 
+  <p>&nbsp;
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@AtitBimali&theme=radical&compact=True" />
+</p>
+<br>
+
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=AtitBimali&theme=tokyonight" alt="atitbimali" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AtitBimali&show_icons=true&theme=react&locale=en" alt="atitbimali" />
+  </p>
+<br>
+ <h3 align="left"> Some Programming Humor for you <img align ='left' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/winkFace.gif' width = '32px' height= '32px'></h3>
+  
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
