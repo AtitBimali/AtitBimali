@@ -1,4 +1,4 @@
-![image](https://github.com/AtitBimali/AtitBimali/assets/62683794/b08ba1da-57c8-44c6-a8fc-2838ef1a1238)<h1 align="center"> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
+<h1 align="center"> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
 <h3 align="center">A passionate backend developer from Nepal 🇳🇵</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atitbimali&label=Profile%20views&color=0e75b6&style=flat" alt="atitbimali" /> </p>
@@ -41,6 +41,7 @@
     <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1234px-Kubernetes_logo_without_workmark.svg.png" alt="sqlite" width="40" height="40"/> </a>
       <a href="https://grafana.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Grafana_logo.svg/1280px-Grafana_logo.svg.png" alt="grafana" width="40" height="40"/> </a>
       <a href="https://prometheus.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Prometheus_software_logo.svg/230px-Prometheus_software_logo.svg.png" alt="prometheus" width="40" height="40"/> </a>
+        <a href="https://www.netdata.cloud/" target="_blank" rel="noreferrer"> <img src="https://www.netdata.cloud/img/netdata-logo.svg" alt="netdata" width="40" height="40"/> </a>
     <a href="https://www.nginx.com/" target="_blank" rel="noreferrer"> <img src="https://www.nginx.com/wp-content/uploads/2020/05/NGINX-product-icon.svg" alt="sqlite" width="40" height="40"/> </a>
 </p>
 
